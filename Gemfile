@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-gem "nokogiri", '~>1.10.8'  #won't exceed 1.10.
+gem "nokogiri", '~>1.14.3' #won't exceed 1.10.
